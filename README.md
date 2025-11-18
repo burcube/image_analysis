@@ -1,3 +1,3 @@
 # Image Analysis
 
-This is repository belongs to project XXXX
+This is repository belongs to project XX
